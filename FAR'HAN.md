@@ -17,8 +17,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚂+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;+𝙵𝙰𝚁𝙷𝙰𝙽+𝙸'𝚂+𝚃𝙷𝙴+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚈𝙾𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/DJ-FARHAN-BOT/MIMI"><img width=550 src="https://github-profile-trophy.vercel.app/?username= 𓆩𝐃𝐄𝐕𝐈𝐋-𝐅𝐀𝐑𝐇𝐀𝐍𓆪》 &theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<h3><b><i>🏆 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 :</i></b></h3>
+<a href="https://github.com/DJ-FARHAN-BOT/MIMI"><img width=550 src="https://github-profile-trophy.vercel.app/?username= DJ-FARHAN-BOT &theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 </p>
 <p align="center"> 
